@@ -1,6 +1,8 @@
 # IIS-6.0-Cheat-Sheets
 Cheat sheets for Microsoft IIS (Internet Information Server) version 6.0
 
-## [Microsoft IIS Architecture Crib Sheet]()
+## [Microsoft IIS Architecture Crib Sheet](https://github.com/microscum/IIS-6.0-Cheat-Sheets/files/Microsoft-IIS-6.0-Architecture-Crib-Sheet.pdf)
 
-## [Microsoft IIS Error Logging Crib Sheet]()
+
+
+## [Microsoft IIS Error Logging Crib Sheet](https://github.com/microscum/IIS-6.0-Cheat-Sheets/files/Microsoft-IIS-6.0-Error-Logging-Crib-Sheet.pdf)
